@@ -334,8 +334,8 @@ html {
 button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #fff;
-    color: #a43f49;
+    background-color: #a43f49;
+    color: #fff;
     font-size: 12px;
     font-weight: 800;
     letter-spacing: 0.5px;
@@ -348,8 +348,8 @@ button {
 
 button:hover {
     outline: none;
-    background-color: #a43f49;
-    color: #fff;
+    background-color: #fff;
+    color: #a43f49;
 }
 
 
